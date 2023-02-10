@@ -1,2 +1,2 @@
 #!/bin/bash
-strings -o,grep SCHOOL
+strings -o -T SCHOOL
