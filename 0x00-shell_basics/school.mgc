@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -o string SCHOOL
+grep -o string School data
