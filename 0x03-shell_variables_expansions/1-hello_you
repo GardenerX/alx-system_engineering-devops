@@ -1,2 +1,2 @@
 #!/bin/bash
-NAME=root | printf "hello $NAME"
+echo "hello $USER"
